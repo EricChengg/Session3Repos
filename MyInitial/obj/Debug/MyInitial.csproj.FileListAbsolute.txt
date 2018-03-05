@@ -74,3 +74,15 @@ D:\MyTafe\2107_S2\5TSD\Resources\Session03\StudentFiles\MyInitial\obj\Debug\MyNa
 D:\MyTafe\2107_S2\5TSD\Resources\Session03\StudentFiles\MyInitial\obj\Debug\MyInitial.csproj.GenerateResource.Cache
 D:\MyTafe\2107_S2\5TSD\Resources\Session03\StudentFiles\MyInitial\obj\Debug\MyNameSpace.exe
 D:\MyTafe\2107_S2\5TSD\Resources\Session03\StudentFiles\MyInitial\obj\Debug\MyNameSpace.pdb
+C:\Session3Repos\MyInitial\bin\Debug\MyNameSpace.exe.config
+C:\Session3Repos\MyInitial\obj\Debug\MyNameSpace.exe
+C:\Session3Repos\MyInitial\obj\Debug\MyNameSpace.pdb
+C:\Session3Repos\MyInitial\bin\Debug\MyNameSpace.exe
+C:\Session3Repos\MyInitial\bin\Debug\MyNameSpace.pdb
+C:\Session3Repos\MyInitial\obj\Debug\MyInitial.csprojResolveAssemblyReference.cache
+C:\Session3Repos\MyInitial\obj\Debug\MyNameSpace.AboutBox1.resources
+C:\Session3Repos\MyInitial\obj\Debug\MyNameSpace.JuiceBarForm.resources
+C:\Session3Repos\MyInitial\obj\Debug\MyNameSpace.Properties.Resources.resources
+C:\Session3Repos\MyInitial\obj\Debug\MyNameSpace.SummaryForm.resources
+C:\Session3Repos\MyInitial\obj\Debug\Ticketing.TicketsForm.resources
+C:\Session3Repos\MyInitial\obj\Debug\MyInitial.csproj.GenerateResource.Cache

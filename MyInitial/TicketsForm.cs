@@ -45,6 +45,8 @@ namespace Ticketing
                 { mSection = 2; }
             if (radBox.Checked)
                 { mSection = 3; }
+            if (radBack.Checked)
+            { mSection = 4; }
 
             mTicketPrice = new TicketPrice(mSection, mQuantity, mDiscount, discount);
 

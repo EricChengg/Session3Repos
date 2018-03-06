@@ -1,0 +1,12 @@
+C:\Session3Repos\MyInitial\bin\Debug\MyNameSpace.exe.config
+C:\Session3Repos\MyInitial\obj\Debug\MyNameSpace.exe
+C:\Session3Repos\MyInitial\obj\Debug\MyNameSpace.pdb
+C:\Session3Repos\MyInitial\bin\Debug\MyNameSpace.exe
+C:\Session3Repos\MyInitial\bin\Debug\MyNameSpace.pdb
+C:\Session3Repos\MyInitial\obj\Debug\Sales.csprojResolveAssemblyReference.cache
+C:\Session3Repos\MyInitial\obj\Debug\MyNameSpace.AboutBox1.resources
+C:\Session3Repos\MyInitial\obj\Debug\MyNameSpace.JuiceBarForm.resources
+C:\Session3Repos\MyInitial\obj\Debug\MyNameSpace.Properties.Resources.resources
+C:\Session3Repos\MyInitial\obj\Debug\MyNameSpace.SummaryForm.resources
+C:\Session3Repos\MyInitial\obj\Debug\Ticketing.TicketsForm.resources
+C:\Session3Repos\MyInitial\obj\Debug\Sales.csproj.GenerateResource.Cache
